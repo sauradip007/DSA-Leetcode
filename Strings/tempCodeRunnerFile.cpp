@@ -1,0 +1,1 @@
+cout<<smallestwind(s,p)<<endl;
